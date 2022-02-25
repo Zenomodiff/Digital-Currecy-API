@@ -1,0 +1,74 @@
+[
+  {
+    "Coin_Name": "Bitcoin(BTC)",
+    "Price_Range": "\u20b9 30,38,928",
+    "Top_Value": "+3,05,590",
+    "Bottom_Value": "+11.18%"
+  },
+  {
+    "Coin_Name": "Ethereum(ETH)",
+    "Price_Range": "\u20b9 2,06,898",
+    "Top_Value": "+23,719",
+    "Bottom_Value": "+12.95%"
+  },
+  {
+    "Coin_Name": "Tether(USDT)",
+    "Price_Range": "\u20b9 79.9",
+    "Top_Value": "-0.50",
+    "Bottom_Value": "-0.63%"
+  },
+  {
+    "Coin_Name": "Binance Coin(BNB)",
+    "Price_Range": "\u20b9 28,724",
+    "Top_Value": "+2,957",
+    "Bottom_Value": "+11.48%"
+  },
+  {
+    "Coin_Name": "USD Coin(USDC)",
+    "Price_Range": "\u20b9 79.6",
+    "Top_Value": "-0.28",
+    "Bottom_Value": "-0.35%"
+  },
+  {
+    "Coin_Name": "Ripple(XRP)",
+    "Price_Range": "\u20b9 55.31",
+    "Top_Value": "+5.70",
+    "Bottom_Value": "+11.49%"
+  },
+  {
+    "Coin_Name": "Solana(SOL)",
+    "Price_Range": "\u20b9 7,020.43",
+    "Top_Value": "+751.17",
+    "Bottom_Value": "+11.98%"
+  },
+  {
+    "Coin_Name": "Cardano(ADA)",
+    "Price_Range": "\u20b9 67.1",
+    "Top_Value": "+7.40",
+    "Bottom_Value": "+12.41%"
+  },
+  {
+    "Coin_Name": "Terra(LUNA)",
+    "Price_Range": "\u20b9 5,303.55",
+    "Top_Value": "+1,270.79",
+    "Bottom_Value": "+31.51%"
+  },
+  {
+    "Coin_Name": "Binance USD(BUSD)",
+    "Price_Range": "\u20b9 75.22",
+    "Top_Value": "-0.09",
+    "Bottom_Value": "-0.13%"
+  },
+  {
+    "Coin_Name": "Avalanche(AVAX)",
+    "Price_Range": "\u20b9 5,949.24",
+    "Top_Value": "+808.92",
+    "Bottom_Value": "+15.74%"
+  },
+  {
+    "Coin_Name": "Dogecoin(DOGE)",
+    "Price_Range": "\u20b9 9.72",
+    "Top_Value": "+1.3",
+    "Bottom_Value": "+11.88%"
+  }
+]
